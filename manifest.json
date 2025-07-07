@@ -1,0 +1,23 @@
+{
+  "name": "创世星核",index.html
+  "short_name": "创世星核",
+  "description": "一个拥有独立世界观的、可离线运行的AI内容创世引擎。",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0c0a09",
+  "theme_color": "#0c0a09",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/ec4899/0c0a09?text=创世",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://placehold.co/512x512/ec4899/0c0a09?text=创世星核",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
